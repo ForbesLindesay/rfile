@@ -79,3 +79,5 @@ rfile('foo', {extensions: ['.css']});
 ## License
 
   MIT
+  
+![viewcount](https://viewcount.jepso.com/count/ForbesLindesay/rfileify.png)
