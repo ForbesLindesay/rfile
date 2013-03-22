@@ -80,4 +80,4 @@ rfile('foo', {extensions: ['.css']});
 
   MIT
   
-![viewcount](https://viewcount.jepso.com/count/ForbesLindesay/rfileify.png)
+![viewcount](https://viewcount.jepso.com/count/ForbesLindesay/rfile.png)
