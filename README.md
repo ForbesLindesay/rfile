@@ -1,5 +1,7 @@
 # rfile
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ForbesLindesay/rfile.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://secure.travis-ci.org/ForbesLindesay/rfile.png)](http://travis-ci.org/ForbesLindesay/rfile)
 [![Dependency Status](https://img.shields.io/david/ForbesLindesay/rfile.svg)](https://david-dm.org/ForbesLindesay/rfile)
 
